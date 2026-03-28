@@ -3,5 +3,8 @@
   "model": "Midjourney v6.1",
   "concept": "overfitting",
   "metaphor": "Vines and flowers perfectly hugging one wall, showing excessive adaptation and fragility, representing overfitting to a single dataset",
+  "dataset_name": "Messy Mashup Dataset",
+  "dataset_url": "https://example.com/dataset",
+  "insight": "Overfitting occurs when a model memorizes training data patterns too closely, failing to generalize to new unseen data.",
   "publish_email": true
 }
