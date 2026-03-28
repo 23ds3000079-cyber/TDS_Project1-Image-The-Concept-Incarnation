@@ -4,7 +4,7 @@
   "concept": "overfitting",
   "metaphor": "Vines and flowers perfectly hugging one wall, showing excessive adaptation and fragility, representing overfitting to a single dataset",
   "dataset_name": "Messy Mashup Dataset",
-  "dataset_url": "https://example.com/dataset",
-  "insight": "Overfitting occurs when a model memorizes training data patterns too closely, failing to generalize to new unseen data.",
+  "dataset_url": "https://tds.s-anand.net/#/2025-01/",
+  "insight": "Overfitting happens when a model memorizes training data too closely, capturing noise and failing to generalize to new data.",
   "publish_email": true
 }
