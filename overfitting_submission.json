@@ -1,8 +1,6 @@
 {
   "prompt": "A surreal yet realistic garden where delicate vines and flowers grow excessively, perfectly tracing the intricate contours of a single ornate stone wall, with tiny fragile details everywhere, sunlight casting soft shadows, highly detailed, photorealistic, cinematic lighting, no text, no diagrams, no labels",
   "model": "Midjourney v6.1",
-  "concept": "overfitting",
-  "metaphor": "Vines and flowers perfectly hugging one wall, showing excessive adaptation and fragility, representing overfitting to a single dataset",
   "dataset_name": "Messy Mashup Dataset",
   "dataset_url": "https://tds.s-anand.net/#/2025-01/",
   "insight": "Overfitting happens when a model memorizes training data too closely, capturing noise and failing to generalize to new data.",
